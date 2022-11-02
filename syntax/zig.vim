@@ -105,7 +105,7 @@ syn keyword zigBuiltin @cDefine @cImport @cInclude @cUndef
 syn keyword zigType anyerror anyframe anyopaque anytype
 syn keyword zigType bool
 syn keyword zigType comptime_float comptime_int
-syn keyword zigType f16 f32 f64 f128
+syn keyword zigType f16 f32 f64 f80 f128
 syn keyword zigType isize usize
 syn keyword zigType noreturn
 syn keyword zigType type
