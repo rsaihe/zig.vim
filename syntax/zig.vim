@@ -74,7 +74,7 @@ syn keyword zigBuiltin @hasDecl
 syn keyword zigBuiltin @import
 syn keyword zigBuiltin @intToEnum @intToError @intToFloat @intToPtr
 syn keyword zigBuiltin @log @log2 @log10
-syn keyword zigBuiltin @maximum @minimum
+syn keyword zigBuiltin @max @min
 syn keyword zigBuiltin @memcpy @memset
 syn keyword zigBuiltin @mod @rem
 syn keyword zigBuiltin @mulAdd
@@ -87,7 +87,7 @@ syn keyword zigBuiltin @setAlignStack @setCold
 syn keyword zigBuiltin @setEvalBranchQuota @setFloatMode @setRuntimeSafety
 syn keyword zigBuiltin @shlExact @shrExact @shlWithOverflow
 syn keyword zigBuiltin @shuffle
-syn keyword zigBuiltin @sin @cos @tan
+syn keyword zigBuiltin @sin @cos
 syn keyword zigBuiltin @sqrt
 syn keyword zigBuiltin @src
 syn keyword zigBuiltin @tagName
